@@ -18,4 +18,5 @@ Topdown, pixel, gece gündüz ve mevsim döngülü, hikaye üzerine ilerleyen bi
 # Hedef kitle
 Her yaş kullanıcıya hitap ediyor, çoğunlukla genç (15-30) yaş arası
 # Sprint 1
-Karakter tasarımı ve animasyonları yapıldı, map tileset ilkbahar mevsimi için bitirildi, basit karakter kontrolleri yapıldı.
+Karakter tasarımı ve animasyonları yapıldı, map tileset ilkbahar mevsimi için bitirildi, basit karakter kontrolleri yapıldı.  
+https://miro.com/app/board/uXjVO2TgdJY=/
