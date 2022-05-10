@@ -25,6 +25,7 @@ https://miro.com/app/board/uXjVO2TgdJY=/
 ![image](https://user-images.githubusercontent.com/95138463/167614469-9dd9a30c-24b8-4fdd-9531-d294566c5720.png)
 # Oyun Görüntüleri
 ![image](https://user-images.githubusercontent.com/95138463/167629066-5c4ad421-1d6e-46e8-9618-d1ef829f7e2e.png)
+![image](https://user-images.githubusercontent.com/95138463/167644345-753b0cd8-bf2f-41f2-aec9-897ca990b00d.png)
 
 # Sprint Review
 Sprint 1'in tasarım üzerine yoğunlaşılmasına karar verildi. Kodlamada fazla ilerlenilmedi, tasarımın çoğu kısmı bitti.  
