@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
+    path: Assets/Scenes/map.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/cafeinside.unity
+    guid: fd0ce405ec1d7b141ac8c3db2600264a
+  - enabled: 1
+    path: Assets/Scenes/gunshopinside.unity
+    guid: ca3221463db668b4a8006a4782dade09
+  - enabled: 1
+    path: Assets/Scenes/marketinside.unity
+    guid: bb9656ad4fa4ae448a6a77c22ddec1e0
   m_configObjects: {}
