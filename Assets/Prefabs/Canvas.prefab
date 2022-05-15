@@ -196,7 +196,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _inventorybutton: {fileID: 1824257675008241779}
   _inventoryimage: {fileID: 1824257675739981908}
-  _inventoryexitbutton: {fileID: 0}
   _shopexit: {fileID: 0}
 --- !u!114 &4327720676790059374
 MonoBehaviour:
@@ -211,7 +210,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _moneyTXT: {fileID: 6666657166109176378}
-  _price: 0
 --- !u!1 &1824257675008241779
 GameObject:
   m_ObjectHideFlags: 0
@@ -363,7 +361,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1824257675739981911
 RectTransform:
   m_ObjectHideFlags: 0
@@ -371,7 +369,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1824257675739981908}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.09800792, y: 0.09800792, z: 0.09800792}
   m_ConstrainProportionsScale: 0
@@ -381,7 +379,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 81.099976, y: 56.200005}
+  m_AnchoredPosition: {x: 81.1, y: 56.2}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1824257675739981905

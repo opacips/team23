@@ -9,7 +9,6 @@ public class inventoryopen : MonoBehaviour
     public GameObject _shopexit;
     public void InventoryOpen(){
        _inventoryimage.SetActive(true);
-       
        _inventorybutton.SetActive(false);
 
 
@@ -19,7 +18,6 @@ public class inventoryopen : MonoBehaviour
     public void InventoryExit(){
         _inventoryimage.SetActive(false);
         _inventorybutton.SetActive(true);
-        
         _shopexit.SetActive(false);
     }
 }
