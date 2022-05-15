@@ -8,7 +8,6 @@ public class money : MonoBehaviour
 {
     private int _money= 450;
     public Text _moneyTXT;
-    public int _price;
 
     public void Awake(){
         
@@ -19,8 +18,8 @@ public class money : MonoBehaviour
 
     }
     public void Buy(){
-        if(_money>=_price){
-            _money-=_price;
+        if(_money>=35){
+            _money-=35;
             _moneyTXT.text=_money.ToString();
         }
         else{

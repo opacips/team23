@@ -2388,11 +2388,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1230114984 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1824257675739981908, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-  m_PrefabInstance: {fileID: 1291372030}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1291372030
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2401,10 +2396,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 679109895086423635, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 1824257674470356808, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
@@ -2548,18 +2539,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: inventoryopen, Assembly-CSharp
       objectReference: {fileID: 0}
-    - target: {fileID: 1824257675739981908, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1824257675739981911, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1824257675739981911, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 428
-      objectReference: {fileID: 0}
     - target: {fileID: 4126778215899899835, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
       propertyPath: _shopexit
       value: 
@@ -2568,14 +2547,6 @@ PrefabInstance:
       propertyPath: _inventoryimage
       value: 
       objectReference: {fileID: 1291372033}
-    - target: {fileID: 4126778215899899835, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-      propertyPath: _inventoryexitbutton
-      value: 
-      objectReference: {fileID: 1230114984}
-    - target: {fileID: 4327720676790059374, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-      propertyPath: _price
-      value: 100
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
 --- !u!114 &1291372031 stripped
@@ -2621,11 +2592,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2459009fa6ae749469803dda826c3f6f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!224 &1291372036 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 1824257674470356808, guid: 4162e5762ef95d0408c186e891c59b2a, type: 3}
-  m_PrefabInstance: {fileID: 1291372030}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1325640676
 GameObject:
   m_ObjectHideFlags: 0
@@ -2761,7 +2727,7 @@ GameObject:
   - component: {fileID: 1487007014}
   m_Layer: 0
   m_Name: gunshopnpcmanager
-  m_TagString: NPC
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2874,82 +2840,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 4, y: 4}
   m_EdgeRadius: 0
---- !u!1 &1567212524
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1567212525}
-  - component: {fileID: 1567212527}
-  - component: {fileID: 1567212526}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1567212525
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1567212524}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1291372036}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.5, y: 43.1}
-  m_SizeDelta: {x: 20.2815, y: 17.9819}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1567212526
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1567212524}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1567212527
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1567212524}
-  m_CullTransparentMesh: 1
 --- !u!1 &1568130347
 GameObject:
   m_ObjectHideFlags: 0
@@ -13028,8 +12918,6 @@ GameObject:
   - component: {fileID: 2045544873}
   - component: {fileID: 2045544872}
   - component: {fileID: 2045544871}
-  - component: {fileID: 2045544875}
-  - component: {fileID: 2045544874}
   m_Layer: 5
   m_Name: knifebuy
   m_TagString: Untagged
@@ -13114,30 +13002,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2045544875}
-        m_TargetAssemblyTypeName: InventoryDisplay, Assembly-CSharp
-        m_MethodName: patates
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2045544875}
-        m_TargetAssemblyTypeName: InventoryDisplay, Assembly-CSharp
-        m_MethodName: InventoryAdd
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!114 &2045544872
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13176,38 +13040,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2045544869}
   m_CullTransparentMesh: 1
---- !u!114 &2045544874
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2045544869}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 048e91c40b882c843b007902e8fedeff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  radius: 1.2
-  item: {fileID: 0}
-  isStable: 0
---- !u!114 &2045544875
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2045544869}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69f58fa7f7046144a8d3f178688b28d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  item: {fileID: 0}
-  ab: {fileID: 0}
-  image: {fileID: 1567212524}
-  test: {fileID: 0}
-  bttn: {fileID: 0}
 --- !u!1 &2102779825
 GameObject:
   m_ObjectHideFlags: 0
