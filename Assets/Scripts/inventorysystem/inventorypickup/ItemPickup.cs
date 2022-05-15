@@ -53,4 +53,14 @@ public class ItemPickup : InteractableTemplate
             PickUp();
         }
     }
+    public void ItemPickupI()
+    {
+        bool wasPickedUp = Inventory.instance.Add(item);
+        if (wasPickedUp)
+        {
+           
+        }
+
+    }
+    
 }
