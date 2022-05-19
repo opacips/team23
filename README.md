@@ -4,10 +4,10 @@ Oyun ve Uygulama Akademisi Bootcamp Team 23
 Henüz Belirlenmedi
 # Ürün ile ilgili bilgiler
 # Takım elemanları
-Ceren Çınar: Proje yöneticisi, designer
-Ali Cem Canpolat: Coder
-İsmet Tekin: Coder
-Damla Candar: Coder
+Ceren Çınar: Proje yöneticisi, designer  
+Ali Cem Canpolat: Coder  
+İsmet Tekin: Coder  
+Damla Candar: Coder  
 Eda Karalı: Coder
 # Ürün ismi
 Belirlenmedi
