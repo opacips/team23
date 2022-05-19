@@ -12,11 +12,11 @@ Eda Karalı: Coder
 # Ürün ismi
 Belirlenmedi
 # Ürün açıklaması
-Kafe oyunu, malzeme toplayıp yemek yapacağımız rpg bir oyun
+Tetris ve platformer oyunu birleşimi.
 # Ürün özellikleri
-Topdown, pixel, gece gündüz ve mevsim döngülü, hikaye üzerine ilerleyen bir yemek yapma oyunu
+Sidescroller, karakterimiz normalde ulaşamadığı bir itemi almak için oyuncuya verilen az sayıda tetris bloğunu yukarıdan düşürerek haritaya yerleştiriyor ve bu bloklar yardımıyla (üzerinden zıplamak vs.) itemi alıp yeni seviyeye geçiyor. Her seviyede oyunumuzdaki siyah beyaz olan tetris blokları renkleniyor.
 # Hedef kitle
-Her yaş kullanıcıya hitap ediyor, çoğunlukla genç (15-30) yaş arası
+Her yaş kullanıcıya hitap ediyor.
 # Sprint 1
 Karakter tasarımı ve animasyonları yapıldı, map tileset ilkbahar mevsimi için bitirildi, basit karakter kontrolleri yapıldı.  
 https://miro.com/app/board/uXjVO2TgdJY=/
@@ -33,3 +33,5 @@ Sprint 1'in tasarım üzerine yoğunlaşılmasına karar verildi. Kodlamada fazl
 Tasarımcının sprint 2 ve 3 süresince tasarımı geliştirmesine ve ayrıntılar üzerine odaklanmasına karar verildi.
 # Sprint Retroperspective
 Aktiflik fazla sağlanılamadı, daha aktif olunmasına karar verildi. (Bayram dolayısıyla)
+# Sprint 2
+Oyun fikri değiştirildi, güncel fikir geliştirilmeye başlandı. Elimizde olmayan nedenlerden dolayı (bayram, okul ve mecburi meşguliyetler) yeterince zaman ayrılamadı. İlk proje fikri yetiştirilemeyeceğinden dolayı daha fazla zaman kaybetmeden kod olarak daha basit ancak daha içimize sinen ve orijinal bir fikir üzerinde çalışmaya karar verdik. Önümüzdeki 1 aylık bir süreç içinde yetiştirebileceğimizden emin olduğumuz bir proje fikri geliştirdik.
