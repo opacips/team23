@@ -35,3 +35,7 @@ Tasarımcının sprint 2 ve 3 süresince tasarımı geliştirmesine ve ayrıntı
 Aktiflik fazla sağlanılamadı, daha aktif olunmasına karar verildi. (Bayram dolayısıyla)
 # Sprint 2
 Oyun fikri değiştirildi, güncel fikir geliştirilmeye başlandı. Elimizde olmayan nedenlerden dolayı (bayram, okul ve mecburi meşguliyetler) yeterince zaman ayrılamadı. İlk proje fikri yetiştirilemeyeceğinden dolayı daha fazla zaman kaybetmeden kod olarak daha basit ancak daha içimize sinen ve orijinal bir fikir üzerinde çalışmaya karar verdik. Önümüzdeki 1 aylık bir süreç içinde yetiştirebileceğimizden emin olduğumuz bir proje fikri geliştirdik.
+# Sprint Review
+Oyun level tasarımı tamamlandı. Hepimiz okuduğumuz için sınavlarımız dolayısıyla yavaş ilerliyoruz.
+# Sprint Retroperspective
+Hepimizin aktif olacağı bir aralık belirlendi. Bu günleri sadece oyuna ayırarak daha hızlı ilerleyeceğimizi düşünüyoruz.
