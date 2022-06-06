@@ -1,7 +1,7 @@
 # team23
 Oyun ve Uygulama Akademisi Bootcamp Team 23
 # Takım İsmi
-Henüz Belirlenmedi
+Team Pupper
 # Ürün ile ilgili bilgiler
 # Takım elemanları
 Ceren Çınar: Proje yöneticisi, designer
@@ -23,6 +23,8 @@ https://miro.com/app/board/uXjVO2TgdJY=/
 Karakter tasarımı ve animasyonları yapıldı, map tileset ilkbahar mevsimi için bitirildi, basit karakter kontrolleri yapıldı.  
 # Oyun Görüntüleri
 ![image](https://user-images.githubusercontent.com/95138463/172247101-c11260a6-2b7f-4d10-be11-d008f01767c4.png)
+![image](https://user-images.githubusercontent.com/95138463/172247296-9aefd058-2bf5-4118-a476-96b8a8f4a3a7.png)
+![image](https://user-images.githubusercontent.com/95138463/172247390-392b4e4b-3aa7-4e94-9cae-8f56565e1994.png)
 # Daily Scrum Notları
 https://miro.com/app/board/uXjVO1gJF3o=/?share_link_id=849710593545
 # Sprint Review
