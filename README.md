@@ -17,12 +17,10 @@ Topu alıp sahibine götüren bir köpeği kontrol ettiğimiz bir platformer oyu
 Sidescroller, pixel, platformer
 # Hedef kitle
 Her yaş kullanıcıya hitap ediyor.
+# Backlog
+https://miro.com/app/board/uXjVO2TgdJY=/
 # Sprint 1
 Karakter tasarımı ve animasyonları yapıldı, map tileset ilkbahar mevsimi için bitirildi, basit karakter kontrolleri yapıldı.  
-https://miro.com/app/board/uXjVO2TgdJY=/
-![image](https://user-images.githubusercontent.com/95138463/167613993-487c0c3a-9243-443f-bbb8-8c75e209ebbc.png)
-![image](https://user-images.githubusercontent.com/95138463/167614079-9cba4380-3fca-48a6-b7f9-958192d9e04e.png)
-![image](https://user-images.githubusercontent.com/95138463/167614469-9dd9a30c-24b8-4fdd-9531-d294566c5720.png)
 # Oyun Görüntüleri
 ![image](https://user-images.githubusercontent.com/95138463/167629066-5c4ad421-1d6e-46e8-9618-d1ef829f7e2e.png)
 ![image](https://user-images.githubusercontent.com/95138463/167644345-753b0cd8-bf2f-41f2-aec9-897ca990b00d.png)
