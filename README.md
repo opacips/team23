@@ -44,3 +44,5 @@ Oyun geliştirme aşaması tamamlandı. Tüm assetler tasarlandı ve tamamlanmı
 Bu sprintte oldukça aktiftik ve ilk iki sprinte göre daha çok iletişim kurduk. Hepimiz koda katkı sağladık. 
 # Sprint Retroperspective
 İlk aşamalara göre çok daha tecrübeli ve verimli çalıştık.
+# Son notlar
+Oyun bitince ilk levele geri atıyor. Çıkış ekranı yapılmadı.
