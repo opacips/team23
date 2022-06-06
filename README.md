@@ -22,8 +22,7 @@ https://miro.com/app/board/uXjVO2TgdJY=/
 # Sprint 1
 Karakter tasarımı ve animasyonları yapıldı, map tileset ilkbahar mevsimi için bitirildi, basit karakter kontrolleri yapıldı.  
 # Oyun Görüntüleri
-![image](https://user-images.githubusercontent.com/95138463/167629066-5c4ad421-1d6e-46e8-9618-d1ef829f7e2e.png)
-![image](https://user-images.githubusercontent.com/95138463/167644345-753b0cd8-bf2f-41f2-aec9-897ca990b00d.png)
+![image](https://user-images.githubusercontent.com/95138463/172247101-c11260a6-2b7f-4d10-be11-d008f01767c4.png)
 # Daily Scrum Notları
 https://miro.com/app/board/uXjVO1gJF3o=/?share_link_id=849710593545
 # Sprint Review
